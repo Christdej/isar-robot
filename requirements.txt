@@ -86,7 +86,7 @@ idna==3.7
     #   requests
 injector==0.21.0
     # via isar
-isar==1.17.0
+isar==1.18.0
     # via isar-robot (pyproject.toml)
 isodate==0.6.1
     # via
@@ -140,12 +140,12 @@ pyasn1-modules==0.4.0
     # via google-auth
 pycparser==2.22
     # via cffi
-pydantic==2.7.0
+pydantic==2.7.1
     # via
     #   fastapi
     #   isar
     #   pydantic-settings
-pydantic-core==2.18.1
+pydantic-core==2.18.2
     # via pydantic
 pydantic-settings==2.2.1
     # via isar
